@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[44],{105:function(o){o.exports=JSON.parse('{"to":"/docs/guides/serverless/about","forComponent":false}')}}]);

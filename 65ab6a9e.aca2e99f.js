@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[132],{196:function(o){o.exports=JSON.parse('{"to":"/docs/configuration/interpolation","forComponent":false}')}}]);

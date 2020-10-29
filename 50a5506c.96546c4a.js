@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[108],{170:function(o){o.exports=JSON.parse('{"to":"/docs/guides/streams_mode/about","forComponent":false}')}}]);

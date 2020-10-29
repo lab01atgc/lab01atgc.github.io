@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[252],{319:function(o){o.exports=JSON.parse('{"to":"/docs/guides/performance_tuning","forComponent":false}')}}]);

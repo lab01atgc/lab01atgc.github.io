@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{190:function(o){o.exports=JSON.parse('{"to":"/docs/components/rate_limits/","forComponent":true}')}}]);

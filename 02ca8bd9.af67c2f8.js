@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{66:function(o){o.exports=JSON.parse('{"to":"/docs/guides/getting_started","forComponent":false}')}}]);

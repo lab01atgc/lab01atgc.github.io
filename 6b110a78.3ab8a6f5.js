@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[145],{210:function(o){o.exports=JSON.parse('{"to":"/docs/components/logger/about","forComponent":false}')}}]);
