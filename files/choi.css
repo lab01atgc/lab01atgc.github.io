@@ -151,6 +151,8 @@ a:visited {
 
 a:hover {
     background-color: rgba(144, 138, 139, 0.3);
+    color: inherit; /* This will keep the text color the same on hover */
+    text-decoration: none; /* This will prevent the underline on hover */
 }
 
 a.email {
